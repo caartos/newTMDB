@@ -1,0 +1,36 @@
+{
+  "name": "newtmdb-front",
+  "version": "1.0.0",
+  "description": "Rehacer la tmdb que hicimos en el bootcamp.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caartos/newTMDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caartos/newTMDB/issues"
+  },
+  "homepage": "https://github.com/caartos/newTMDB#readme",
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@fontsource/roboto": "^4.5.8",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.0",
+    "axios": "^1.2.1",
+    "isomorphic-fetch": "^3.0.0",
+    "mui-image": "^1.0.7",
+    "next": "^13.0.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-material-ui-carousel": "^3.4.2"
+  }
+}
